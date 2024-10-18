@@ -1,5 +1,13 @@
-# Hi, We're HUTC-Official 👋  
-Haramaya University Tech Club (HUTC) is a student-run organization dedicated to fostering innovation, coding skills, and technology-driven projects on campus. Our mission is to create a collaborative space for tech enthusiasts to share knowledge, work on exciting projects, and grow their skills.
+# Welcome to HUTC-Official! 👋
+
+We are the **Haramaya University Tech Club** (HUTC), a student-run organization at Haramaya University. We aim to empower students with tech skills through collaborative projects, hackathons, and mentorship programs.
+
+---
+
+## 🚀 Our Mission  
+We strive to foster an innovative and tech-driven environment for students, offering opportunities to learn and grow in areas like software development, data science, artificial intelligence, and more.
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HUTC-official&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUTC-official&theme=radical)
