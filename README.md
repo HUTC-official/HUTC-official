@@ -1,4 +1,4 @@
-# Welcome to HUTC-Official! 👋
+## Welcome to HUTC-Official! 👋
 
 We are the Haramaya University Tech Club (HUTC), a vibrant student-run organization at Haramaya University. Our mission is to empower students with tech skills through collaborative projects, hackathons, and mentorship programs. Join us on this exciting journey to innovate and learn together!
 ---
@@ -30,9 +30,9 @@ Attend Hackathons: Showcase your creativity and problem-solving abilities!
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/> </p>
+
 
 ##  Connect With Us! 📲
 Follow us on our social media channels for updates, events, and more:
-t.me/hutc_official
-https://linkedin.com/company/hutc-official
+  t.me/hutc_official
+  https://linkedin.com/company/hutc-official
