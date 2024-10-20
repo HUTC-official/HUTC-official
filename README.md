@@ -8,9 +8,9 @@ We strive to foster a tech-driven community where students can learn and grow in
 
 ##   Get Involved! 🤝
 Join our Workshops: Participate in hands-on sessions to enhance your skills.
----
+
 Contribute to Projects: Work on real-world projects with fellow tech enthusiasts.
----
+
 Attend Hackathons: Showcase your creativity and problem-solving abilities!
 
 
@@ -36,5 +36,7 @@ Attend Hackathons: Showcase your creativity and problem-solving abilities!
 
 ##  Connect With Us! 📲
 Follow us on our social media channels for updates, events, and more:
+
   t.me/hutc_official
+  
   https://linkedin.com/company/hutc-official
