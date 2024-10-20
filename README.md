@@ -2,7 +2,7 @@
 
   We are the Haramaya University Tech Club (HUTC), a vibrant student-run organization at Haramaya University. Our mission is to empower students with tech skills through collaborative projects, hackathons, and mentorship 
   programs. Join us on this exciting journey to innovate and learn together!
----
+
 
 ## 🚀 Our Mission  
 We strive to foster a tech-driven community where students can learn and grow in various fields such as software development, data science, artificial intelligence, and more.
