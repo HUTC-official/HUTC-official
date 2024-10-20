@@ -36,7 +36,6 @@ Attend Hackathons: Showcase your creativity and problem-solving abilities!
 
 ##  Connect With Us! 📲
 Follow us on our social media channels for updates, events, and more:
+Telegram
 
-  t.me/hutc_official
-  
-  https://linkedin.com/company/hutc-official
+LinkedIn
